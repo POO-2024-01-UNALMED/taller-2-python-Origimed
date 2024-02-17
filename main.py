@@ -47,7 +47,7 @@ class Auto:
         self.registro = registro
         
 
-    def cantidadAsiento(self):
+    def cantidadAsientos(self):
 
         totalAsiento = 0
         for i in self.asientos:
